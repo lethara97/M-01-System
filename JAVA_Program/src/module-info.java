@@ -1,0 +1,2 @@
+module JAVA_Program {
+}
