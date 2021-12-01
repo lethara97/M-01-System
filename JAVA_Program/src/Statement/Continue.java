@@ -3,8 +3,8 @@ package Statement;
 public class Continue {
 	public static void main(String args[]) {
 		int count;
-		for (count = 0; count <=10; count++) {
-			if(count==5) 
+		for (count = 0; count <=20; count++) {
+			if(count==11) 
 				continue;
 				System.out.printf("%d ",count);
 		}
