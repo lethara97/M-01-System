@@ -10,5 +10,5 @@ public class InitArray1 {
 			System.out.printf("%d%5d%n",counter,array[counter]++);
 		}
 	}
-
+	//fdfdfsfdfsdfdsfds
 }
