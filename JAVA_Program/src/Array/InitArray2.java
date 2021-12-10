@@ -17,7 +17,7 @@ public class InitArray2 {
 		for(int counter = 0; counter < array.length;counter++) {
 			System.out.printf("%d%8d%n", counter,array[counter]);
 		}
-
+			
 	}
 
 }
