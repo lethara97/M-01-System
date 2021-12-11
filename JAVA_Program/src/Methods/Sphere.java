@@ -13,11 +13,12 @@ public class Sphere {
 		
 		System.out.printf("Volume is %f%n", sphereVolume(radius));
 		} 
-	
+
 
 		System.out.print("Enter radius of sphere: ");
 		double radius = input.nextDouble();
 		System.out.printf("Volume is %f%n", sphereVolume(radius));
+
 
 		public static double sphereVolume(double radius)
 		{
