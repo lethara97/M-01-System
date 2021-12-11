@@ -8,7 +8,7 @@ public class RollDie {
 		SecureRandom randomNumber = new SecureRandom();
 		int[] frequency = new int[7];
 		
-		for (int roll =1; roll<=100;roll++) {
+		for (int roll =1; roll<=1000;roll++) {
 			++frequency[1+ randomNumber.nextInt(6)];
 		}
 		System.out.printf("%s%10s%n","Face","Frequency");
