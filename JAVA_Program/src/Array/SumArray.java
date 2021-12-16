@@ -13,5 +13,5 @@ public class SumArray {
 		}
 		System.out.printf("total of array elements : %d%n ",total);
 	}
-
+////
 }
