@@ -23,6 +23,7 @@ public class DrawRainbow extends JPanel{
 
 
 
+
 	int radius = 20;
 
 	int centerX = getWidth() / 2;
