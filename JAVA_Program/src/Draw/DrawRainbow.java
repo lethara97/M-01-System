@@ -21,7 +21,6 @@ public class DrawRainbow extends JPanel{
 	{
 	super.paintComponent(g);
 
-	int radius = 20;
 
 	int centerX = getWidth() / 2;
 	int centerY = getHeight() - 10;
