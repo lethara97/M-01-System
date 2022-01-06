@@ -1,5 +1,6 @@
 package PayrollSystem;
 
-public class SalariedEmployee {
+public class SalariedEmployee extends Employee{
+	private double weeklySalary;
 
 }
