@@ -64,6 +64,7 @@ public class HourlyEmployee {
 	return 40 * getWage() + (getHours() - 40) * getWage() * 1.5;
 	}
 
+	// return String representation of HourlyEmployee object
 	@Override
 	public String toString() {
 		return String.format("hourly employee: %s%n%s: $%,.2f; %s: %,.2f",
