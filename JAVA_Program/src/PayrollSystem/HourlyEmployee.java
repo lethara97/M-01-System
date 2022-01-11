@@ -1,13 +1,13 @@
 package PayrollSystem;
 
-public class HourlyEmployee {
+public class HourlyEmployee extends Employee {
 	private double wage;
 	private double hours;
 	
 	public HourlyEmployee(String firstName, String lastName,
 			String socialSecurityNumber, double wage, double hours)
 	{
-		super();
+		super(firstName, lastName, socialSecurityNumber);
 		
 		if (wage < 0.0) // validate wage
 			throw new IllegalArgumentException(
