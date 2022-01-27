@@ -8,7 +8,7 @@ public class CheckBoxTest {
 		// TODO Auto-generated method stub
 		CheckBoxFrame checkBoxFrame = new CheckBoxFrame();
 		checkBoxFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		checkBoxFrame.setSize(275,100);
+		checkBoxFrame.setSize(275,101);
 		checkBoxFrame.setVisible(true);
 		
 	}
