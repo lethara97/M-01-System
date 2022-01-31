@@ -22,6 +22,7 @@ public class ListFrame extends JFrame{
 	
 	public ListFrame()
 	{
+		
 	super("List Test");
 	setLayout(new FlowLayout());
 	colorJList = new JList<String>(colorNames); // list of colorNames
