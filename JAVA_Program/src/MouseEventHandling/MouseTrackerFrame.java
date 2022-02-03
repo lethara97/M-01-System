@@ -17,6 +17,7 @@ public class MouseTrackerFrame extends JFrame{
 	public MouseTrackerFrame() {
 		
 		super ("Demonstrating Mouse Events");
+		//
 		
 		mousePanel = new JPanel();
 		mousePanel.setBackground(Color.WHITE);
