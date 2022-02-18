@@ -13,6 +13,7 @@ public class Metrics {
 		frame.add(metricsJPanel);
 		frame.setSize(510, 240);
 		frame.setVisible(true);
+		//
 		
 	}
 
