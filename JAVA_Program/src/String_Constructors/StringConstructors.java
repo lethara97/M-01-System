@@ -15,7 +15,7 @@ public class StringConstructors {
 		
 		
 		System.out.printf(
-				"s1= %s%ns2 =%s%ns3 = %s%ns4 =%s%n",s1,s2,s3,s4);
+				"s1= %s%ns2 = %s%ns3 = %s%ns4 = %s%n",s1,s2,s3,s4);
 		
 	}
 
