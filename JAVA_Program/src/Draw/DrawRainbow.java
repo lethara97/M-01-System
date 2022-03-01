@@ -20,7 +20,8 @@ public class DrawRainbow extends JPanel{
 	public void paintComponent(Graphics g)
 	{
 	super.paintComponent(g);
-	int radius = 20;
+
+
 	int centerX = getWidth() / 2;
 	int centerY = getHeight() - 10;
 	for (int counter = colors.length; counter > 0; counter--)
