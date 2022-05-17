@@ -16,8 +16,8 @@ public class Validate {
 		String lastName = scanner.nextLine();
 		System.out.println("Please enter  Address : ");
 		String address = scanner.nextLine();
-		System.out.println("Please enter  ctiy : ");
-		String ctiy = scanner.nextLine();
+		System.out.println("Please enter  city : ");
+		String city = scanner.nextLine();
 		System.out.println("Please enter state : ");
 		String state = scanner.nextLine();
 		System.out.println("Please enter zip : ");
