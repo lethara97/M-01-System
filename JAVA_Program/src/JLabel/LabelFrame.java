@@ -1,4 +1,4 @@
-package JLabel;
+
 import java.awt.FlowLayout;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -33,5 +33,9 @@ public class LabelFrame extends JFrame{
 		label3.setToolTipText("This is label3");
 		add(label3);
 	}
+
+
+public class LabelFrame {
+
 
 }
