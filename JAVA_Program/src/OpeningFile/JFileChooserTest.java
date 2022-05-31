@@ -13,6 +13,7 @@ public class JFileChooserTest {
 		application.setSize(400, 400); 
 		application.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		application.setVisible(true); 
+
 	}
 
 }

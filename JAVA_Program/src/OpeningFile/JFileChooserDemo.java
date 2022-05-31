@@ -1,5 +1,6 @@
 package OpeningFile;
 
+
 import java.io.IOException;
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
@@ -89,4 +90,4 @@ public class JFileChooserDemo extends JFrame {
 			  // return Path representing the selected file
 			  return fileChooser.getSelectedFile().toPath();
 			  }
-}
+
