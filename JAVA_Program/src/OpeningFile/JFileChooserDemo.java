@@ -91,3 +91,11 @@ public class JFileChooserDemo extends JFrame {
 			  return fileChooser.getSelectedFile().toPath();
 			  }
 
+
+
+public class JFileChooserDemo {
+
+	
+
+ main
+}
