@@ -4,7 +4,7 @@ import java.security.SecureRandom;
  import java.util.Scanner;
 public class BinarySearchTest {
 	
-	public static int binarySearch(int[] data, int key)
+	public static int binarySearch(int[] data, int key) {
 	int low = 0; // low end of the search area 
 	int high = data.length - 1; // high end of the search area
 	int middle = (low + high + 1) / 2; // middle element 
